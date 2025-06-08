@@ -35,6 +35,5 @@ Interactive FAQ section
 
 Responsive form
 
-The "Our Trusted Partners" section features a seamless, automatic logo slider with hover effects that turn logos to full color when users mouse over them. The slider uses a CSS animation to create a continuous scrolling effect.
-
-The collapsible FAQ section allows users to click on questions to reveal answers, with smooth animations and visual indicators. The website maintains a consistent coffee-inspired aesthetic throughout all sections.
+view my website 
+https://murithi-finale.vercel.app/
